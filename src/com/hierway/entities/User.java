@@ -6,4 +6,5 @@ package com.hierway.entities;
  */
 public class User {
     private String name;
+    private int address;
 }
