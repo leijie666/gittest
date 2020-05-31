@@ -5,4 +5,5 @@ package com.hierway.controller;
  * @date 2020/5/31 20:48
  */
 public class MyController {
+    private String servier;
 }
